@@ -1,0 +1,17 @@
+/Users/samuelompereira/Documents/TesteAlphaDDD/src/SistemaPizzariaDDD.Application/bin/Debug/net6.0/SistemaPizzariaDDD.Application.deps.json
+/Users/samuelompereira/Documents/TesteAlphaDDD/src/SistemaPizzariaDDD.Application/bin/Debug/net6.0/SistemaPizzariaDDD.Application.dll
+/Users/samuelompereira/Documents/TesteAlphaDDD/src/SistemaPizzariaDDD.Application/bin/Debug/net6.0/SistemaPizzariaDDD.Application.pdb
+/Users/samuelompereira/Documents/TesteAlphaDDD/src/SistemaPizzariaDDD.Application/bin/Debug/net6.0/SistemaPizzariaDDD.Domain.dll
+/Users/samuelompereira/Documents/TesteAlphaDDD/src/SistemaPizzariaDDD.Application/bin/Debug/net6.0/SistemaPizzariaDDD.Infra.Data.dll
+/Users/samuelompereira/Documents/TesteAlphaDDD/src/SistemaPizzariaDDD.Application/bin/Debug/net6.0/SistemaPizzariaDDD.Infra.Data.pdb
+/Users/samuelompereira/Documents/TesteAlphaDDD/src/SistemaPizzariaDDD.Application/bin/Debug/net6.0/SistemaPizzariaDDD.Domain.pdb
+/Users/samuelompereira/Documents/TesteAlphaDDD/src/SistemaPizzariaDDD.Application/obj/Debug/net6.0/SistemaPizzariaDDD.Application.csproj.AssemblyReference.cache
+/Users/samuelompereira/Documents/TesteAlphaDDD/src/SistemaPizzariaDDD.Application/obj/Debug/net6.0/SistemaPizzariaDDD.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelompereira/Documents/TesteAlphaDDD/src/SistemaPizzariaDDD.Application/obj/Debug/net6.0/SistemaPizzariaDDD.Application.AssemblyInfoInputs.cache
+/Users/samuelompereira/Documents/TesteAlphaDDD/src/SistemaPizzariaDDD.Application/obj/Debug/net6.0/SistemaPizzariaDDD.Application.AssemblyInfo.cs
+/Users/samuelompereira/Documents/TesteAlphaDDD/src/SistemaPizzariaDDD.Application/obj/Debug/net6.0/SistemaPizzariaDDD.Application.csproj.CoreCompileInputs.cache
+/Users/samuelompereira/Documents/TesteAlphaDDD/src/SistemaPizzariaDDD.Application/obj/Debug/net6.0/SistemaPizzariaDDD.Application.csproj.CopyComplete
+/Users/samuelompereira/Documents/TesteAlphaDDD/src/SistemaPizzariaDDD.Application/obj/Debug/net6.0/SistemaPizzariaDDD.Application.dll
+/Users/samuelompereira/Documents/TesteAlphaDDD/src/SistemaPizzariaDDD.Application/obj/Debug/net6.0/refint/SistemaPizzariaDDD.Application.dll
+/Users/samuelompereira/Documents/TesteAlphaDDD/src/SistemaPizzariaDDD.Application/obj/Debug/net6.0/SistemaPizzariaDDD.Application.pdb
+/Users/samuelompereira/Documents/TesteAlphaDDD/src/SistemaPizzariaDDD.Application/obj/Debug/net6.0/ref/SistemaPizzariaDDD.Application.dll

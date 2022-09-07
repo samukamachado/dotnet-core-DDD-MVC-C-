@@ -1,0 +1,105 @@
+﻿<!doctype html>
+<html lang="en">
+
+<head>
+    <title>Criação Pedidos</title>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+          integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+</head>
+
+<body>
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+            integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+            crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+            integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+            crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+            integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+            crossorigin="anonymous"></script>
+
+    <h1>Tela de Atualização de Pedidos de Clientes</h1>
+
+    <br>
+    </br>
+
+    @model PedidoClienteModel
+
+    @{
+        ViewBag.Title = "Index";
+    }
+
+    @using (Html.BeginForm("EditarPedido", "EditarPedido", FormMethod.Post))
+    {
+        <div class="input-group mb-3">
+            <div class="input-group-prepend">
+                <span class="input-group-text" id="Idpedido">Id do Pedido</span>
+            </div>
+
+            @Html.TextBoxFor(m => m.Id, new { @class = "form-control", @readonly = "readonly" })
+        </div>
+        <br></br>
+        <div class="input-group mb-3">
+            <div class="input-group-prepend">
+                <span class="input-group-text" id="nomeCliente">Nome Cliente</span>
+            </div>
+
+            @Html.TextBoxFor(m => m.NomeCliente, new { @class = "form-control", @readonly = "readonly" })
+        </div>
+        <br></br>
+        <div class="input-group mb-3">
+            <div class="input-group-prepend">
+                <span class="input-group-text" id="email">Email</span>
+            </div>
+
+            @* <input type="text" class="form-control" placeholder="Digite seu email" aria-label="Username"
+                aria-describedby="basic-addon1"> *@
+            @Html.TextBoxFor(m => m.Email, new { @class = "form-control", @readonly = "readonly" })
+        </div>
+      
+        <br></br>
+        <div class="input-group mb-3">
+            <div class="input-group-prepend">
+                <span class="input-group-text" id="email">Pedido Cliente</span>
+            </div>
+
+            @Html.TextBoxFor(m => m.PedidoCliente, new { @class = "form-control", @readonly = "readonly" })
+        </div>
+        <br></br>
+        <div class="input-group mb-3">
+            <div class="input-group-prepend">
+                <span class="input-group-text" id="nomeCliente">Valor</span>
+            </div>
+
+            @Html.TextBoxFor(m => m.Valor, new { @class = "form-control", placeholder = "Digite o Valor", type = "number" })
+        </div>
+        <br></br>
+        <div class="input-group mb-3">
+            <div class="input-group-prepend">
+                <label class="input-group-text" for="inputGroupSelect01">Status</label>
+            </div>
+            @Html.DropDownListFor(m => m.Status, new List<SelectListItem>
+{            new SelectListItem{Text="Em andamento", Value="Em andamento"},
+             new SelectListItem{Text="Pendente", Value="Pendente" },
+             new SelectListItem{Text="Concluido", Value="Concluido" }
+
+            }, "Alterar o Status...", new { @class = "custom-select" })
+        </div>
+
+        <br></br>
+        <button type="submit" class="btn btn-primary">Enviar Pedido</button>
+
+    }
+
+
+</body>
+
+</html>

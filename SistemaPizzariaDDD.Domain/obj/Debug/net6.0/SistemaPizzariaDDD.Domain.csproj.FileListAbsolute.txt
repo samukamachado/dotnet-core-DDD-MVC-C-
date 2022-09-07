@@ -1,0 +1,12 @@
+/Users/samuelompereira/Documents/TesteAlphaDDD/src/SistemaPizzariaDDD.Domain/bin/Debug/net6.0/SistemaPizzariaDDD.Domain.deps.json
+/Users/samuelompereira/Documents/TesteAlphaDDD/src/SistemaPizzariaDDD.Domain/bin/Debug/net6.0/SistemaPizzariaDDD.Domain.dll
+/Users/samuelompereira/Documents/TesteAlphaDDD/src/SistemaPizzariaDDD.Domain/bin/Debug/net6.0/SistemaPizzariaDDD.Domain.pdb
+/Users/samuelompereira/Documents/TesteAlphaDDD/src/SistemaPizzariaDDD.Domain/obj/Debug/net6.0/SistemaPizzariaDDD.Domain.csproj.AssemblyReference.cache
+/Users/samuelompereira/Documents/TesteAlphaDDD/src/SistemaPizzariaDDD.Domain/obj/Debug/net6.0/SistemaPizzariaDDD.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelompereira/Documents/TesteAlphaDDD/src/SistemaPizzariaDDD.Domain/obj/Debug/net6.0/SistemaPizzariaDDD.Domain.AssemblyInfoInputs.cache
+/Users/samuelompereira/Documents/TesteAlphaDDD/src/SistemaPizzariaDDD.Domain/obj/Debug/net6.0/SistemaPizzariaDDD.Domain.AssemblyInfo.cs
+/Users/samuelompereira/Documents/TesteAlphaDDD/src/SistemaPizzariaDDD.Domain/obj/Debug/net6.0/SistemaPizzariaDDD.Domain.csproj.CoreCompileInputs.cache
+/Users/samuelompereira/Documents/TesteAlphaDDD/src/SistemaPizzariaDDD.Domain/obj/Debug/net6.0/SistemaPizzariaDDD.Domain.dll
+/Users/samuelompereira/Documents/TesteAlphaDDD/src/SistemaPizzariaDDD.Domain/obj/Debug/net6.0/refint/SistemaPizzariaDDD.Domain.dll
+/Users/samuelompereira/Documents/TesteAlphaDDD/src/SistemaPizzariaDDD.Domain/obj/Debug/net6.0/SistemaPizzariaDDD.Domain.pdb
+/Users/samuelompereira/Documents/TesteAlphaDDD/src/SistemaPizzariaDDD.Domain/obj/Debug/net6.0/ref/SistemaPizzariaDDD.Domain.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IxbIV1Ygf+eIJzU5X/9HnuCinFvjryjTnMTFgNElQwfyuQP1NvBgJkUtFO+fBE520DeaqQyNQ+DiGUfeVOPrcg==",
+  "success": true,
+  "projectFilePath": "/Users/samuelompereira/Documents/TesteAlphaDDD/src/SistemaPizzariaDDD.Infra.Data/SistemaPizzariaDDD.Infra.Data.csproj",
+  "expectedPackageFiles": [
+    "/Users/samuelompereira/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

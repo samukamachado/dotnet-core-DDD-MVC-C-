@@ -1,0 +1,15 @@
+/Users/samuelompereira/Documents/TesteAlphaDDD/src/SistemaPizzariaDDD.Infra.Data/bin/Debug/net6.0/SistemaPizzariaDDD.Infra.Data.deps.json
+/Users/samuelompereira/Documents/TesteAlphaDDD/src/SistemaPizzariaDDD.Infra.Data/bin/Debug/net6.0/SistemaPizzariaDDD.Infra.Data.dll
+/Users/samuelompereira/Documents/TesteAlphaDDD/src/SistemaPizzariaDDD.Infra.Data/bin/Debug/net6.0/SistemaPizzariaDDD.Infra.Data.pdb
+/Users/samuelompereira/Documents/TesteAlphaDDD/src/SistemaPizzariaDDD.Infra.Data/bin/Debug/net6.0/SistemaPizzariaDDD.Domain.dll
+/Users/samuelompereira/Documents/TesteAlphaDDD/src/SistemaPizzariaDDD.Infra.Data/bin/Debug/net6.0/SistemaPizzariaDDD.Domain.pdb
+/Users/samuelompereira/Documents/TesteAlphaDDD/src/SistemaPizzariaDDD.Infra.Data/obj/Debug/net6.0/SistemaPizzariaDDD.Infra.Data.csproj.AssemblyReference.cache
+/Users/samuelompereira/Documents/TesteAlphaDDD/src/SistemaPizzariaDDD.Infra.Data/obj/Debug/net6.0/SistemaPizzariaDDD.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelompereira/Documents/TesteAlphaDDD/src/SistemaPizzariaDDD.Infra.Data/obj/Debug/net6.0/SistemaPizzariaDDD.Infra.Data.AssemblyInfoInputs.cache
+/Users/samuelompereira/Documents/TesteAlphaDDD/src/SistemaPizzariaDDD.Infra.Data/obj/Debug/net6.0/SistemaPizzariaDDD.Infra.Data.AssemblyInfo.cs
+/Users/samuelompereira/Documents/TesteAlphaDDD/src/SistemaPizzariaDDD.Infra.Data/obj/Debug/net6.0/SistemaPizzariaDDD.Infra.Data.csproj.CoreCompileInputs.cache
+/Users/samuelompereira/Documents/TesteAlphaDDD/src/SistemaPizzariaDDD.Infra.Data/obj/Debug/net6.0/SistemaPizzariaDDD.Infra.Data.csproj.CopyComplete
+/Users/samuelompereira/Documents/TesteAlphaDDD/src/SistemaPizzariaDDD.Infra.Data/obj/Debug/net6.0/SistemaPizzariaDDD.Infra.Data.dll
+/Users/samuelompereira/Documents/TesteAlphaDDD/src/SistemaPizzariaDDD.Infra.Data/obj/Debug/net6.0/refint/SistemaPizzariaDDD.Infra.Data.dll
+/Users/samuelompereira/Documents/TesteAlphaDDD/src/SistemaPizzariaDDD.Infra.Data/obj/Debug/net6.0/SistemaPizzariaDDD.Infra.Data.pdb
+/Users/samuelompereira/Documents/TesteAlphaDDD/src/SistemaPizzariaDDD.Infra.Data/obj/Debug/net6.0/ref/SistemaPizzariaDDD.Infra.Data.dll
